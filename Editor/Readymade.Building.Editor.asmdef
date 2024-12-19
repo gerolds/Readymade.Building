@@ -1,0 +1,16 @@
+{
+  "name": "Readymade.Building.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "references": [
+    "Readymade.Building",
+    "Readymade.Utils",
+    "Unity.Splines.Editor",
+    "Unity.Splines",
+    "UniTask",
+    "UniTask.Linq",
+    "NaughtyAttributes.Editor",
+    "NaughtyAttributes.Core"
+  ]
+}
