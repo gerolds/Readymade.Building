@@ -10,11 +10,12 @@
   "licensesUrl": "https://github.com/gerolds/Readymade.Building/LICENSE",
   "dependencies": {
     "com.anglebracket.readymade-utils": "0.1.0",
+    "com.anglebracket.readymade-machinery": "0.1.0",
     "com.cysharp.unitask": "2.5.0",
     "com.dbrizov.naughtyattributes": "2.1.0",
-    "com.unity.splines": "2.6.1",
     "com.unity.inputsystem": "1.11.2",
-    "com.unity.ugui": "2.0.0"
+    "com.unity.ugui": "2.0.0",
+    "com.unity.splines": "2.6.1"
     
   },
   "keywords": [
