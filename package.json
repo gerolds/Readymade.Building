@@ -5,13 +5,13 @@
   "description": "A generic, monolithic prefab-placement feature useful for creating builder type games. Supports arbitrarily simple/complex snapping rules, grids, 1- and 2-click placement (objects and connections).",
   "unity": "6000.0",
   "unityRelease": "0",
-  "documentationUrl": "https://github.com/gerolds/Readymade.Persistence",
-  "changelogUrl": "https://github.com/gerolds/Readymade.Persistence/CHANGELOG.md",
-  "licensesUrl": "https://github.com/gerolds/Readymade.Persistence/LICENSE.md",
+  "documentationUrl": "https://github.com/gerolds/Readymade.Building",
+  "changelogUrl": "https://github.com/gerolds/Readymade.Building/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gerolds/Readymade.Building/LICENSE.md",
   "dependencies": {
   },
   "keywords": [
-    "Persistence"
+    "Building"
   ],
   "author": {
     "name": "Gerold Schneider",
