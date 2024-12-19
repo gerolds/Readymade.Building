@@ -9,6 +9,7 @@
   "changelogUrl": "https://github.com/gerolds/Readymade.Building/CHANGELOG.md",
   "licensesUrl": "https://github.com/gerolds/Readymade.Building/LICENSE",
   "dependencies": {
+    "com.anglebracket.readymade-utils": "0.1.0"
   },
   "keywords": [
     "Building"
