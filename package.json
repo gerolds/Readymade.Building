@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.anglebracket.readymade-building",
+  "version": "0.1.0",
+  "displayName": "Readymade.Building",
+  "description": "A generic, monolithic prefab-placement feature useful for creating builder type games. Supports arbitrarily simple/complex snapping rules, grids, 1- and 2-click placement (objects and connections).",
+  "unity": "6000.0",
+  "unityRelease": "0",
+  "documentationUrl": "https://github.com/gerolds/Readymade.Persistence",
+  "changelogUrl": "https://github.com/gerolds/Readymade.Persistence/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gerolds/Readymade.Persistence/LICENSE.md",
+  "dependencies": {
+  },
+  "keywords": [
+    "Persistence"
+  ],
+  "author": {
+    "name": "Gerold Schneider",
+    "email": "",
+    "url": "https://github.com/gerolds"
+  }
+}
